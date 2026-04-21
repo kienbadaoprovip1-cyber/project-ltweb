@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "towudJebyX4=",
+  "success": true,
+  "projectFilePath": "D:\\thuc_hanh_web\\ban_game\\GameStoreAPI\\GameStoreAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
